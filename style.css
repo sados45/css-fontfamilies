@@ -1,0 +1,48 @@
+h1{
+    border: 2px solid blue;
+    text-align:center;
+    color:red;
+    font-size:24px;
+    font-family: Arial, Helvetica, sans-serif;/* Font-familiy türleri:border: times new roman- arial- courier new-
+    comic sans- luminari dir.*/ 
+}
+/*
+@font-face{
+
+    font-family:Fruktur;
+    src: url('.Fruktur5/Fruktur-Regular.tff')
+}*/
+ 
+
+p.about{
+    margin:5%;
+    font-family:'Courier New', Courier, monospace ; /*google.fonts ile yazi stillerini oradan yükleyerek cesitlendirebiliriz*/
+    font-size:24px;
+    color:rgb(15, 11, 223);
+    border: 2px solid green;
+    text-transform:capitalize;
+    background-color:pink;
+    
+}
+
+h2{
+    text-align:center;
+    font-family:'Fruktur', cursive;
+    font-size:30px;
+    color:rgb(24, 12, 190);
+    border: 2px solid purple;
+    margin: 5px 10px;
+    padding:5px;
+    
+    
+}
+
+ p.description{
+    border: 2px solid purple;
+     margin:5%;
+    font-size:30px;
+    color:blueviolet;
+    font-family:sans-serif;
+    text-decoration: underline;
+
+ }
